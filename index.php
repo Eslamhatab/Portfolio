@@ -8,6 +8,8 @@
   <title>Mr. Hatab Developer</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
+<!-- Font Awesome -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
   <!-- Favicons -->
   <link href="assets/img/favicon.png" rel="icon">
@@ -46,14 +48,15 @@
     <div class="d-flex flex-column">
 
       <div class="profile">
-        <img src="assets/img/profile-mrhatab.jpg" alt="" class="img-fluid rounded-circle">
+        <img src="assets/img/profile-mrhatab.jpg" alt="" class=" w-75 img-fluid shadow  rounded">
         <h1 class="text-light"><a href="index.html">Eslam Hatab</a></h1>
         <div class="social-links mt-3 text-center">
-          <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-          <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-          <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-          <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-          <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+          <a href="https://github.com/Eslamhatab" class="twitter"><i class="fa-brands fa-github"></i></a>
+          
+          <a href="https://www.facebook.com/eslamhatab055/?locale=ar_AR" class="facebook"><i class="bx bxl-facebook"></i></a>
+          <a href="https://www.instagram.com/eslam_hatab/" class="instagram"><i class="bx bxl-instagram"></i></a>
+          <a href="https://join.skype.com/invite/EHdM2awtvIMR" class="google-plus"><i class="bx bxl-skype"></i></a>
+          <a href="https://www.linkedin.com/in/eslam-hossam-hatab-61b7891b9/" class="linkedin"><i class="bx bxl-linkedin"></i></a>
         </div>
       </div>
 
@@ -629,15 +632,14 @@
   <footer id="footer">
     <div class="container">
       <div class="copyright">
-        &copy; Copyright <strong><span>iPortfolio</span></strong>
+      &copy; Copyright <strong><span>Mr. Hatab Dev &hearts;</span></strong>
       </div>
       <div class="credits">
         <!-- All the links in the footer should remain intact. -->
         <!-- You can delete the links only if you purchased the pro version. -->
         <!-- Licensing information: https://bootstrapmade.com/license/ -->
         <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/ -->
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
-      </div>
+          Designed by <a href="https://github.com/Eslamhatab/iPortfolio">Eslam Hatab </a>      </div>
     </div>
   </footer><!-- End  Footer -->
 
