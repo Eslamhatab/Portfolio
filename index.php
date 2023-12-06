@@ -664,17 +664,25 @@
   </footer><!-- End  Footer -->
 
   <!-- start custom Footer -->
+  <!-- <div class="social-links mt-3 text-center">
+          <a href="https://github.com/Eslamhatab" class="twitter"><i class="fa-brands fa-github"></i></a>
+          
+          <a href="https://www.facebook.com/eslamhatab055/?locale=ar_AR" class="facebook"><i class="bx bxl-facebook"></i></a>
+          <a href="https://www.instagram.com/eslam_hatab/" class="instagram"><i class="bx bxl-instagram"></i></a>
+          <a href="https://join.skype.com/invite/EHdM2awtvIMR" class="google-plus"><i class="bx bxl-skype"></i></a>
+          <a href="https://www.linkedin.com/in/eslam-hossam-hatab-61b7891b9/" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+        </div> -->
   <div class="container bg-secondary-subtle float-end">
     <section id="custom-footer" class="py-3 my-4">
       <ul class="nav justify-content-center pb-3 mb-3">
-        <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Home</a></li>
-        <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Features</a></li>
-        <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Pricing</a></li>
-        <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">FAQs</a></li>
-        <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">About Me</a></li>
+        <li class="nav-item"><a href="https://github.com/Eslamhatab" class="twitter"><i class="fa-brands fa-github nav-link px-2 fs-3"></i></a></li>
+        <li class="nav-item"><a href="https://www.facebook.com/eslamhatab055/?locale=ar_AR" class="facebook"><i class="bx bxl-facebook nav-link px-2 fs-3"></i></a></li>
+        <li class="nav-item"> <a href="https://www.instagram.com/eslam_hatab/" class="instagram"><i class="bx bxl-instagram nav-link px-2 fs-3"></i></a></li>
+        <li class="nav-item"><a href="https://join.skype.com/invite/EHdM2awtvIMR" class="google-plus"><i class="bx bxl-skype nav-link px-2 fs-3"></i></a></li>
+        <li class="nav-item"> <a href="https://www.linkedin.com/in/eslam-hossam-hatab-61b7891b9/" class="linkedin"><i class="bx bxl-linkedin nav-link px-2 fs-3"></i></a></li>
       </ul>
       <hr class="w-75 mx-auto"/>
-      <p class="text-center text-body-secondary">© 2023 Company, Inc</p>
+      <p class="text-center text-body-secondary">© 2023 Mr.Hatab Dev &hearts;</p>
     </section>
   </div>
   <!-- end custom Footer -->
