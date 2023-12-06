@@ -303,6 +303,19 @@ h6 {
   }
 }
 
+/*  */
+#employees-workers-stockcoders {
+  all: initial;
+  cursor:pointer;
+  color: rgb(0, 95, 203);
+  font-weight: bold;
+}
+
+#employees-workers-stockcoders:hover {
+  color: #ed5537;
+  transition: 0.40s all ease-in-out;
+}
+
 #hero:before {
   content: "";
   background: rgba(5, 13, 24, 0.3);
