@@ -64,11 +64,11 @@
       <nav id="navbar" class="nav-menu navbar">
         <ul>
           <li><a href="#hero" class="nav-link scrollto active"><i class="bx bx-home"></i> <span>Home</span></a></li>
-          <li><a href="#about" class="nav-link scrollto"><i class="bx bx-user"></i> <span>About</span></a></li>
+          <li><a href="#about" class="nav-link scrollto"><i class="bx bx-user"></i> <span>About Me</span></a></li>
           <li><a href="#resume" class="nav-link scrollto"><i class="bx bx-file-blank"></i> <span>Resume</span></a></li>
           <li><a href="#portfolio" class="nav-link scrollto"><i class="bx bx-book-content"></i> <span>Portfolio</span></a></li>
           <li><a href="#services" class="nav-link scrollto"><i class="bx bx-server"></i> <span>Services</span></a></li>
-          <li><a href="#contact" class="nav-link scrollto"><i class="bx bx-envelope"></i> <span>Contact</span></a></li>
+          <li><a href="#contact" class="nav-link scrollto"><i class="bx bx-envelope"></i> <span>Contact Me</span></a></li>
         </ul>
       </nav>
     </div>
@@ -98,8 +98,10 @@
       <div class="container">
 
         <div class="section-title">
-          <h2>About</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <h2>About Me</h2>
+          <p>
+          👨‍💻 Dedicated software developer committed to exceeding client expectations by delivering tailored solutions that seamlessly align with their needs and requirements.
+          </p>
         </div>
 
         <div class="row">
@@ -108,32 +110,41 @@
           </div>
           <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
             <h3>Software Developer</h3>
-            <p class="fst-italic">
+            <!-- <p class="fst-italic">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
               magna aliqua.
-            </p>
+            </p> -->
             <div class="row">
               <div class="col-lg-6">
                 <ul>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>24 April 1999</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>April 24, 1999</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.mreslamhatab.com</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+20 101 816 2571</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Address:</strong> <span>Nasr City, Cairo</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Address:</strong> <span>Nasr City, Cairo, Egypt</span></li>
                 </ul>
               </div>
               <div class="col-lg-6">
                 <ul>
                   <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>25</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Bachelor</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Bachelor (Information System, aka IS)</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Email Address:</strong> <span>mr.hatab055@gmail.com</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Available</span></li>
                 </ul>
               </div>
             </div>
             <p>
-              Officiis eligendi itaque labore et dolorum mollitia officiis optio vero. Quisquam sunt adipisci omnis et ut. Nulla accusantium dolor incidunt officia tempore. Et eius omnis.
-              Cupiditate ut dicta maxime officiis quidem quia. Sed et consectetur qui quia repellendus itaque neque. Aliquid amet quidem ut quaerat cupiditate. Ab et eum qui repellendus omnis culpa magni laudantium dolores.
+            👋 Hello there! I'm Eslam Hatab, a passionate software developer with a knack for turning lines of code into innovative solutions. My journey in the world of programming began 5 years ago, and since then, I've been on a continuous quest for mastering the art and science of software development.
             </p>
+            <p>
+            💻 My expertise spans a range of technologies, including PHP & Laravel Framework, ReactJS, MERN Stack, OOP, Native Programming, JS, ES6/ES2015, HTML5, CSS3, Bootstrap 4 & 5, some important packages for web development, and a lot more... Whether it's crafting elegant algorithms, designing user-friendly interfaces, or troubleshooting intricate bugs, I thrive on the challenges that come with creating robust and efficient software.
+            </p>
+            <p>
+            🚀 I believe in the power of technology to transform ideas into reality, and I am committed to staying on the cutting edge of industry trends. My goal is not just to write code but to build solutions that make a positive impact. I am a firm believer in collaborative development, and I love working with diverse teams to bring projects to life.
+            </p>
+            <p>
+            📚 Outside of coding, you'll often find me immersed in tech blogs, attending meetups, and exploring new concepts to fuel my curiosity. I'm not just passionate about writing code; I'm driven by the endless possibilities that software development offers to shape the future.
+            </p>
+            <p>Let's code something amazing together! 💻✨</p>
           </div>
         </div>
 
@@ -571,7 +582,7 @@
       <div class="container">
 
         <div class="section-title">
-          <h2>Contact</h2>
+          <h2>Contact Me</h2>
           <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
         </div>
 
@@ -597,7 +608,7 @@
                 <p>+1 5589 55488 55s</p>
               </div>
 
-              <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" style="border:0; width: 100%; height: 290px;" allowfullscreen></iframe>
+              <iframe src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=makram%20ebeid+(My%20Business%20Name)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed" frameborder="0" style="border:0; width: 100%; height: 290px;" allowfullscreen></iframe>
             </div>
 
           </div>
@@ -661,7 +672,7 @@
         <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Features</a></li>
         <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Pricing</a></li>
         <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">FAQs</a></li>
-        <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">About</a></li>
+        <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">About Me</a></li>
       </ul>
       <hr class="w-75 mx-auto"/>
       <p class="text-center text-body-secondary">© 2023 Company, Inc</p>
