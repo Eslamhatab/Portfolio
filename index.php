@@ -80,6 +80,14 @@
     <div class="hero-container" data-aos="fade-in">
       <h1 id="author-name">Mr. Hatab</h1>
       <p class="mt-3">I'm <span class="typed text-warning fw-bold" data-typed-items="Front-end developer ,Back-end Developer, Freelancer, Mid-level Full Stack Web Development"></span></p>
+      <!-- <h3 class="co-founder-stockcoders text-light fw-bold">
+        co-founder of <a href="javascript:void(0)">@StockCoder</a>
+      </h3> -->
+    </div>
+    <div class="co-founder-stockcoders">
+      <h3 class="text-light fw-bold co-founder-stockcoders-text">
+        co-founder of <a href="javascript:void(0)">@StockCoder</a>
+      </h3>
     </div>
   </section><!-- End Hero -->
 
