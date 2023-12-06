@@ -267,6 +267,13 @@ h6 {
 }
 
 /*  */
+@media screen and (max-width: 1199px) {
+  #custom-footer {
+    display: none;
+  }
+}
+
+/*  */
 #author-name {
   font-family: Lucida Handwriting;
   text-shadow: 0 0 12px #0101a1, 0 0 10px #0bddc8cd;

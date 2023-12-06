@@ -50,6 +50,7 @@
       <div class="profile">
         <img src="assets/img/profile-mrhatab.jpg" alt="" class=" w-75 img-fluid shadow  rounded">
         <h1 class="text-light"><a href="index.html">Eslam Hatab</a></h1>
+        <h6 class="text-light text-center fs-6">(co-founder of <a href="javascript:void(0)">@StockCoder</a>)</h6>
         <div class="social-links mt-3 text-center">
           <a href="https://github.com/Eslamhatab" class="twitter"><i class="fa-brands fa-github"></i></a>
           
@@ -69,9 +70,10 @@
           <li><a href="#services" class="nav-link scrollto"><i class="bx bx-server"></i> <span>Services</span></a></li>
           <li><a href="#contact" class="nav-link scrollto"><i class="bx bx-envelope"></i> <span>Contact</span></a></li>
         </ul>
-      </nav><!-- .nav-menu -->
+      </nav>
     </div>
-  </header><!-- End Header -->
+  </header>
+  <!-- End Header -->
 
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
@@ -94,10 +96,10 @@
 
         <div class="row">
           <div class="col-lg-4" data-aos="fade-right">
-            <img src="assets/img/cover-img-08.jpg" class="img-fluid" alt="">
+            <img src="assets/img/cover-img-02-1.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
-            <h3>r&amp; Web Developer.</h3>
+            <h3>Software Developer</h3>
             <p class="fst-italic">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
               magna aliqua.
@@ -105,17 +107,17 @@
             <div class="row">
               <div class="col-lg-6">
                 <ul>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>1 May 1995</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.example.com</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+123 456 7890</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>New York, USA</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>24 April 1999</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.mreslamhatab.com</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+20 101 816 2571</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Address:</strong> <span>Nasr City, Cairo</span></li>
                 </ul>
               </div>
               <div class="col-lg-6">
                 <ul>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>30</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Master</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>PhEmailone:</strong> <span>email@example.com</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>25</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Bachelor</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Email Address:</strong> <span>mr.hatab055@gmail.com</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Available</span></li>
                 </ul>
               </div>
@@ -642,6 +644,22 @@
           Designed by <a href="https://github.com/Eslamhatab/iPortfolio">Eslam Hatab </a>      </div>
     </div>
   </footer><!-- End  Footer -->
+
+  <!-- start custom Footer -->
+  <div class="container bg-secondary-subtle float-end">
+    <section id="custom-footer" class="py-3 my-4">
+      <ul class="nav justify-content-center pb-3 mb-3">
+        <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Home</a></li>
+        <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Features</a></li>
+        <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Pricing</a></li>
+        <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">FAQs</a></li>
+        <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">About</a></li>
+      </ul>
+      <hr class="w-75 mx-auto"/>
+      <p class="text-center text-body-secondary">© 2023 Company, Inc</p>
+    </section>
+  </div>
+  <!-- end custom Footer -->
 
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
