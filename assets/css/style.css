@@ -256,8 +256,10 @@ h6 {
 }
 /*  */
 .container-footer{
-  width:100%;
-  margin-left: 25rem;
+  width:75%;
+  margin: auto;
+  margin-left: 30rem;
+  
 }
 /*  */
 @media screen and (min-width: 900px) {

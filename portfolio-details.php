@@ -9,10 +9,14 @@
   <meta content="" name="description">
   <meta content="" name="keywords">
 
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
   <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
-
+  <!-- <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon"> -->
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/fav-icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="assets/fav-icons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="assets/fav-icons/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
 
@@ -48,7 +52,7 @@
 
       <div class="profile">
         <img src="assets/img/profile-mrhatab.jpg" alt="" class=" w-75 img-fluid shadow  rounded">
-        <h1 class="text-light"><a href="index.html">Eslam Hatab</a></h1>
+        <h1 class="text-light"><a href="http://localhost:8080">Eslam Hatab</a></h1>
         <h6 class="text-light text-center fs-6">(co-founder of <a href="javascript:void(0)">@StockCoder</a>)</h6>
         <div class="social-links mt-3 text-center">
           <a href="https://github.com/Eslamhatab" class="twitter"><i class="fa-brands fa-github"></i></a>
@@ -62,12 +66,12 @@
 
       <nav id="navbar" class="nav-menu navbar">
         <ul>
-          <li><a href="index.php" class="nav-link scrollto active"><i class="bx bx-home"></i> <span>Home</span></a></li>
-          <li><a href="index.php/About Me" class="nav-link scrollto"><i class="bx bx-user"></i> <span>About Me</span></a></li>
-          <li><a href="#resume" class="nav-link scrollto"><i class="bx bx-file-blank"></i> <span>Resume</span></a></li>
-          <li><a href="#portfolio" class="nav-link scrollto"><i class="bx bx-book-content"></i> <span>Portfolio</span></a></li>
-          <li><a href="#services" class="nav-link scrollto"><i class="bx bx-server"></i> <span>Services</span></a></li>
-          <li><a href="#contact" class="nav-link scrollto"><i class="bx bx-envelope"></i> <span>Contact Me</span></a></li>
+          <li><a href="/" class="nav-link scrollto active"><i class="bx bx-home"></i> <span>Home</span></a></li>
+          <li><a href="http://localhost:8080/index.php#about" class="nav-link scrollto"><i class="bx bx-user"></i> <span>About Me</span></a></li>
+          <li><a href="http://localhost:8080/index.php#resume" class="nav-link scrollto"><i class="bx bx-file-blank"></i> <span>Resume</span></a></li>
+          <li><a href="http://localhost:8080/index.php#portfolio" class="nav-link scrollto"><i class="bx bx-book-content"></i> <span>Portfolio</span></a></li>
+          <li><a href="http://localhost:8080/index.php#services" class="nav-link scrollto"><i class="bx bx-server"></i> <span>Services</span></a></li>
+          <li><a href="http://localhost:8080/index.php#contact" class="nav-link scrollto"><i class="bx bx-envelope"></i> <span>Contact Me</span></a></li>
         </ul>
       </nav>
     </div>
