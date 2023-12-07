@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Mr. Hatab Developer</title>
+ 
   <meta content="" name="description">
   <meta content="" name="keywords">
 <!--  -->
@@ -27,7 +27,7 @@
 
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
-
+  <title>Mr. HatabDev -  Protfolio</title>
   <!-- =======================================================
   * Template Name: iPortfolio
   * Updated: Nov 17 2023 with Bootstrap v5.3.2
@@ -420,58 +420,60 @@
 
         <div class="section-title">
           <h2>Resume</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>I have strong people skills, including communication, presentation, teamwork, influencing, leadership, dependability, flexibility, and adaptability. I am also technically proficient, with skills in fast typing, searching, documenting, problem-solving, decision-making, analyzing, designing, and planning. Additionally, I am well-organized with experience in task management and time management.</p>
+          <!-- <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p> -->
         </div>
 
         <div class="row">
           <div class="col-lg-6" data-aos="fade-up">
             <h3 class="resume-title">Sumary</h3>
             <div class="resume-item pb-0">
-              <h4>Alex Smith</h4>
-              <p><em>Innovative and deadline-driven Graphic Designer with 3+ years of experience designing and developing user-centered digital/print marketing material from initial concept to final, polished deliverable.</em></p>
-              <ul>
+              <h4>Eslam Hatab</h4>
+              <p><em>I am a highly educated web developer with expertise in both front-end and back-end technologies. My educational background, combined with practical experience, equips me to craft intuitive user interfaces and implement robust server-side solutions. I bring a commitment to staying current with industry trends, ensuring that my web development skills are not only well-grounded but also at the forefront of innovation. My goal is to contribute to projects by leveraging my strong educational foundation and practical knowledge to create high-quality, efficient, and modern web solutions.</em></p>
+              <!-- <ul>
                 <li>Portland par 127,Orlando, FL</li>
                 <li>(123) 456-7891</li>
                 <li>alice.barkley@example.com</li>
-              </ul>
+              </ul> -->
             </div>
 
             <h3 class="resume-title">Education</h3>
             <div class="resume-item">
-              <h4>Master of Fine Arts &amp; Graphic Design</h4>
-              <h5>2015 - 2016</h5>
-              <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
-              <p>Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam iusto autem sit. Ea vero voluptatum qui ut dignissimos deleniti nerada porti sand markend</p>
+              <h4>Bachelor’s degree  &amp; Computer & Information System”</h4>
+              <h5>2017 - 2021</h5>
+              <p><em> from Obour High Institute for Engineering & Technology (Al-Qalyubia, Obour)</em></p>
+              <p>“Computer & Information System” (2017 – July, 2021) from Obour High Institute for Engineering & Technology (Al-Qalyubia, Obour)</p>
             </div>
             <div class="resume-item">
-              <h4>Bachelor of Fine Arts &amp; Graphic Design</h4>
-              <h5>2010 - 2014</h5>
-              <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
-              <p>Quia nobis sequi est occaecati aut. Repudiandae et iusto quae reiciendis et quis Eius vel ratione eius unde vitae rerum voluptates asperiores voluptatem Earum molestiae consequatur neque etlon sader mart dila</p>
+              <h4>Certifications</h4>
+              <h5>september 2022 - may 2023</h5>
+              <p><em>o	Certified “Full Stack Developer (Front-end & Back-end) </em></p>
+              <p>Diploma” (September, 2022 – May, 2023) – from ITShare Company and it’s </p>
+              <p>located in Nasr City, Cairo, Egypt </p>
             </div>
           </div>
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
             <h3 class="resume-title">Professional Experience</h3>
             <div class="resume-item">
-              <h4>Senior graphic design specialist</h4>
+              <h4>Mid-level Fullstack Web Development</h4>
               <h5>2019 - Present</h5>
-              <p><em>Experion, New York, NY </em></p>
+              <p><em>Freelance </em></p>
               <ul>
-                <li>Lead in the design, development, and implementation of the graphic, layout, and production communication materials</li>
-                <li>Delegate tasks to the 7 members of the design team and provide counsel on all aspects of the project. </li>
-                <li>Supervise the assessment of all graphic materials in order to ensure quality and accuracy of the design</li>
-                <li>Oversee the efficient use of production project budgets ranging from $2,000 - $25,000</li>
+                <li>I have been able to develop my full-stack web development skills through my freelance work in back-end/server-side development. And I’m also developing myself more in the front-end development too as well.</li>
+                <li>Two full-stack web application projects (By using Laravel Framework including some external technologies & packages, RESTful API, HTML, JavaScript, CSS & Bootstrap)</li>
+                <li>o	Two E-commerce Projects (First, the initial or prototype version with RESTful API. Second, a complete project loosely typed & API. Also, an advanced version of the first project with an enhanced front-end UI & UX and also an improved backend logics and algorithms.</li>
               </ul>
             </div>
             <div class="resume-item">
-              <h4>Graphic design specialist</h4>
-              <h5>2017 - 2018</h5>
-              <p><em>Stepping Stone Advertising, New York, NY</em></p>
+              <h4>PHP laravel Frame Work</h4>
+              <h5>Freelance Web Developer</h5>
+              <p><em>Self-Employed | June 2019 - December 2023</em></p>
               <ul>
-                <li>Developed numerous marketing programs (logos, brochures,infographics, presentations, and advertisements).</li>
-                <li>Managed up to 5 projects or tasks at a given time while under pressure</li>
-                <li>Recommended and consulted with clients on the most appropriate graphic design</li>
-                <li>Created 4+ design presentations and proposals a month for clients and account managers</li>
+                <li>Worked with diverse clients to understand project requirements and deliver customized web solutions.</li>
+                <li>Developed and deployed PHP-based websites, incorporating Laravel for scalable and efficient backend development./li>
+                <li>Collaborated closely with clients to gather feedback and make iterative improvements to meet evolving project needs.</li>
+                <li>Integrated e-commerce functionalities, payment gateways, and other third-party services as needed.</li>
+                <li>These points showcase your skills, responsibilities, and achievements in the field of web development using PHP and Laravel. Feel free to customize the details based on your actual experiences and achievements.</li>
               </ul>
             </div>
           </div>
@@ -486,7 +488,7 @@
 
         <div class="section-title">
           <h2>Portfolio</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <h1 class="alert alert-danger w-50 shadow rounder d-flex justify-content-center mx-auto p-2 text-warning"> Under Development........ </h1>
         </div>
 
         <div class="row" data-aos="fade-up">
@@ -504,7 +506,7 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
+              <img src="assets/img/protfolio mr Hatab/Screenshot-01.png" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
@@ -514,9 +516,9 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
+              <img src="assets/img/protfolio mr Hatab/Screenshot-05.png" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -524,7 +526,7 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
+              <img src="assets/img/protfolio mr Hatab/Screenshot-13.png" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
@@ -534,7 +536,7 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
+              <img src="assets/img/protfolio mr Hatab/Screenshot-15.png" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
@@ -544,7 +546,7 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
+              <img src="assets/img/protfolio mr Hatab/Screenshot-14.png" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
@@ -554,7 +556,7 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
+              <img src="assets/img/protfolio mr Hatab/Screenshot-09.png" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 3"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
@@ -564,7 +566,7 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
+              <img src="assets/img/protfolio mr Hatab/Screenshot-04.png" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 1"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
@@ -574,7 +576,7 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
+              <img src="assets/img/protfolio mr Hatab/Screenshot-08.png" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 3"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
@@ -584,7 +586,7 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
+              <img src="assets/img/protfolio mr Hatab/Screenshot-10.png" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="assets/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
@@ -603,44 +605,44 @@
 
         <div class="section-title">
           <h2>Services</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <!-- <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p> -->
         </div>
 
         <div class="row">
           <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up">
-            <div class="icon"><i class="bi bi-briefcase"></i></div>
-            <h4 class="title"><a href="">Lorem Ipsum</a></h4>
-            <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+            <div class="icon"><i class="fa-solid fa-laptop-code"></i></div>
+            <h4 class="title">Web Development</h4>
+            <p class="description">I create high-quality, user-friendly websites using my skills in front-end development, back-end development.</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="100">
-            <div class="icon"><i class="bi bi-card-checklist"></i></div>
-            <h4 class="title"><a href="">Dolor Sitema</a></h4>
-            <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
+            <div class="icon"><i class="fa-solid fa-layer-group"></i></i></div>
+            <h4 class="title">Responsive Design</h4>
+            <p class="description">I create high-quality, user-friendly websites using my skills in front-end development, back-end development.</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="200">
-            <div class="icon"><i class="bi bi-bar-chart"></i></div>
-            <h4 class="title"><a href="">Sed ut perspiciatis</a></h4>
-            <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
+            <div class="icon"><i class="fa-solid fa-gears"></i></i></div>
+            <h4 class="title">Creative Design</h4>
+            <p class="description">I create visually appealing and engaging designs that communicate your brand message effectively.</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="300">
-            <div class="icon"><i class="bi bi-binoculars"></i></div>
-            <h4 class="title"><a href="">Magni Dolores</a></h4>
-            <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+            <div class="icon"><i class="fa-solid fa-database"></i></div>
+            <h4 class="title">Database Design</h4>
+            <p class="description">I design efficient and scalable databases that meet the specific needs of your business</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="400">
-            <div class="icon"><i class="bi bi-brightness-high"></i></div>
-            <h4 class="title"><a href="">Nemo Enim</a></h4>
-            <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
+            <div class="icon"><i class="fa-brands fa-sketch"></i></div>
+            <h4 class="title">Web Apps Ideas</h4>
+            <p class="description">  I help you to brainstorm, conceptualize, and develop innovative web ideas that meet your business goals.</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="500">
-            <div class="icon"><i class="bi bi-calendar4-week"></i></div>
-            <h4 class="title"><a href="">Eiusmod Tempor</a></h4>
-            <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
+            <div class="icon"><i class="fa-solid fa-headset"></i></div>
+            <h4 class="title">Support</h4>
+            <p class="description">I provide comprehensive support for your software products, including bug fixing, troubleshooting, and training.</p>
           </div>
         </div>
 
       </div>
-    </section><!-- End Services Section -->
+    </section>
 
     <!-- ======= Testimonials Section ======= -->
     <section id="testimonials" class="testimonials section-bg">
@@ -648,7 +650,7 @@
 
         <div class="section-title">
           <h2>Testimonials</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <h1 class="alert alert-danger w-50 shadow rounder d-flex justify-content-center mx-auto p-2 text-warning"> Under Development........ </h1>
         </div>
 
         <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
@@ -732,7 +734,7 @@
 
         <div class="section-title">
           <h2>Contact Me</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <h1 class="alert alert-danger w-50 shadow rounder d-flex justify-content-center mx-auto p-2 text-warning"> Under Development........ </h1>
         </div>
 
         <div class="row" data-aos="fade-in">
@@ -742,19 +744,19 @@
               <div class="address">
                 <i class="bi bi-geo-alt"></i>
                 <h4>Location:</h4>
-                <p>A108 Adam Street, New York, NY 535022</p>
+                <p>Nasr City Cairo Egypt</p>
               </div>
 
               <div class="email">
                 <i class="bi bi-envelope"></i>
                 <h4>Email:</h4>
-                <p>info@example.com</p>
+                <p>mr.hatab055@gmail.com</p>
               </div>
 
               <div class="phone">
                 <i class="bi bi-phone"></i>
                 <h4>Call:</h4>
-                <p>+1 5589 55488 55s</p>
+                <p>+201018162571</p>
               </div>
 
               <iframe src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=makram%20ebeid+(My%20Business%20Name)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed" frameborder="0" style="border:0; width: 100%; height: 290px;" allowfullscreen></iframe>
@@ -799,7 +801,7 @@
   </main><!-- End #main -->
 
   <!-- ======= Footer ======= -->
-  <footer id="footer">
+  <footer id="footer" >
     <div class="container">
       <div class="copyright">
       &copy; Copyright <strong><span>Mr. Hatab Dev &hearts;</span></strong>
@@ -822,17 +824,17 @@
           <a href="https://join.skype.com/invite/EHdM2awtvIMR" class="google-plus"><i class="bx bxl-skype"></i></a>
           <a href="https://www.linkedin.com/in/eslam-hossam-hatab-61b7891b9/" class="linkedin"><i class="bx bxl-linkedin"></i></a>
         </div> -->
-  <div class="container bg-secondary-subtle float-end">
-    <section id="custom-footer" class="py-3 my-4">
+  <div class="container container-footer bg-primary-subtle  ">
+    <section id="custom-footer" class="py-3 my-4 ">
       <ul class="nav justify-content-center pb-3 mb-3">
-        <li class="nav-item"><a href="https://github.com/Eslamhatab" class="twitter"><i class="fa-brands fa-github nav-link px-2 fs-3"></i></a></li>
-        <li class="nav-item"><a href="https://www.facebook.com/eslamhatab055/?locale=ar_AR" class="facebook"><i class="bx bxl-facebook nav-link px-2 fs-3"></i></a></li>
-        <li class="nav-item"> <a href="https://www.instagram.com/eslam_hatab/" class="instagram"><i class="bx bxl-instagram nav-link px-2 fs-3"></i></a></li>
-        <li class="nav-item"><a href="https://join.skype.com/invite/EHdM2awtvIMR" class="google-plus"><i class="bx bxl-skype nav-link px-2 fs-3"></i></a></li>
-        <li class="nav-item"> <a href="https://www.linkedin.com/in/eslam-hossam-hatab-61b7891b9/" class="linkedin"><i class="bx bxl-linkedin nav-link px-2 fs-3"></i></a></li>
+        <li class="nav-item"><a href="https://github.com/Eslamhatab" class="twitter custom-footer-links"><i class="fa-brands fa-github nav-link px-2 fs-3"></i></a></li>
+        <li class="nav-item"><a href="https://www.facebook.com/eslamhatab055/?locale=ar_AR" class="facebook custom-footer-links"><i class="bx bxl-facebook nav-link px-2 fs-3"></i></a></li>
+        <li class="nav-item"> <a href="https://www.instagram.com/eslam_hatab/" class="instagram custom-footer-links"><i class="bx bxl-instagram nav-link px-2 fs-3"></i></a></li>
+        <li class="nav-item"><a href="https://join.skype.com/invite/EHdM2awtvIMR" class="google-plus custom-footer-links"><i class="bx bxl-skype nav-link px-2 fs-3"></i></a></li>
+        <li class="nav-item"><a href="https://www.linkedin.com/in/eslam-hossam-hatab-61b7891b9/" class="linkedin custom-footer-links"><i class="bx bxl-linkedin nav-link px-2 fs-3"></i></a></li>
       </ul>
       <hr class="w-75 mx-auto"/>
-      <p class="text-center text-body-secondary">© 2023 Mr.Hatab Dev &hearts;</p>
+      <p class="badge text-bg-secondary fs-6 d-flex justify-content-center mx-auto rounded shadow w-25">© 2023 Mr.Hatab Dev  <span style="color: red;">&hearts;</span></p>
     </section>
   </div>
   <!-- end custom Footer -->

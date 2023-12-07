@@ -254,7 +254,11 @@ h6 {
     /* background: linear-gradient(to right, #3498db, #8e44ad); */
   }
 }
-
+/*  */
+.container-footer{
+  width:100%;
+  margin-left: 25rem;
+}
 /*  */
 @media screen and (min-width: 900px) {
   #hero {
@@ -265,7 +269,10 @@ h6 {
     background-size: 100% 100%;
   }
 }
+/*  */
+/* .custom-footer-links  {
 
+} */
 /*  */
 @media screen and (max-width: 1199px) {
   #custom-footer {
