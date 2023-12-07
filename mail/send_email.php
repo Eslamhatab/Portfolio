@@ -1,4 +1,5 @@
 <?php
+session_start();
 //Import PHPMailer classes into the global namespace
 //These must be at the top of your script, not inside a function
 use PHPMailer\PHPMailer\PHPMailer;
@@ -7,6 +8,21 @@ use PHPMailer\PHPMailer\Exception;
 
 //Load Composer's autoloader
 require '../vendor/autoload.php';
+    $sender_name      = $_REQUEST['sender_name'];
+    $recipient_email  = $_REQUEST['recipient_email'];
+    $subject          = $_REQUEST['subject'];
+    $body             = $_REQUEST['body'];
+    $attechment_img   = $_REQUEST['attachment_img'];
+
+    if(empty($sender_name)                             ||
+        empty($recipient_email)                        ||
+    !filter_var($recipient_email,FILTER_VALIDATE_EMAIL)||
+    empty($subject)                                    ||
+    empty($body)){
+        http_response_code(400);
+        echo "<span style='color:blue;'> Bad Resqust -Please Fill All Fields.</span> <br/>";
+        return false;
+    }
 
 //Create an instance; passing `true` enables exceptions
 $mail = new PHPMailer(true);
@@ -23,23 +39,28 @@ try {
     $mail->Port       = 465;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
 
     //Recipients
-    $mail->setFrom('mr.hatab@info.com', 'mr.hatabDev');
-    $mail->addAddress('kareemtarekpk@gmail.com');
-    $mail->addAddress('mr.hatab055@gmail.com');    //Add a recipient
+    $mail->setFrom('mr.hatab055@info.com', $sender_name);
+    $mail->addAddress($recipient_email);
+    // $mail->addAddress('mr.hatab055@gmail.com');    //Add a recipient
 
 
     //Attachments
-    $mail->addAttachment('../assets/img/cover-img-07.jpg', 'Mr.Hatab Dev');         //Add attachments
+    // $mail->addAttachment('../assets/img/cover-img-07.jpg', 'Mr.Hatab Dev');         //Add attachments
     // $mail->addAttachment('/tmp/image.jpg', 'new.jpg');    //Optional name
 
     //Content
-    $mail->isHTML(true);                                  //Set email format to HTML
-    $mail->Subject = 'Testing My PhpMailer';
-    $mail->Body    = 'Hello It\'s <b>Mr.HatabDev!</b> this Is Image In Formal ';
-    $mail->AltBody = 'This is the body in plain text for non-HTML mail clients';
+    $mail->isHTML(false);                                  //Set email format to HTML
+    $mail->Subject = $subject;
+    $mail->Body    = $body;
+    $mail->AltBody = $body;
 
     $mail->send();
-    echo 'Message has been sent';
+    // set Success Massage in Session 
+    $_SESSION['success_message'] = "\"<span style='font-weight:bold; text-decroition:underline;'>$sender_name</span>\" , your mail has been successfully to \"<span style='font-weight:bold; text-decroition:underline;'>$recipient_email</span>\"";
+    header("Location: http://localhost:8080/index.php#contact");
+    exit;
 } catch (Exception $e) {
-    echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
+    $_SESSION['error_message'] = "\"<span style='font-weight:bold; text-decroition:underline;'>$sender_name</span>\" , your mail hasn't been successfully to \"<span style='font-weight:bold; text-decroition:underline;'>$recipient_email</span>\"";
+    header("Location: http://localhost:8080/index.php#contact");
+exit;
 }

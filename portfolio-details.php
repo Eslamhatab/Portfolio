@@ -84,7 +84,7 @@
       <div class="container">
 
         <div class="d-flex justify-content-between align-items-center">
-          <h2>Portfoio Details</h2>
+          <h2>project Details</h2>
           <ol>
             <li><a href="/index.php">Home</a></li>
             <li>Portfoio Details</li>
@@ -105,15 +105,15 @@
               <div class="swiper-wrapper align-items-center">
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/portfolio-details-1.jpg" alt="">
+                  <img src="assets/img/protfolio mr Hatab/profile-Details/Clinic-App/Screenshot-img-01.png" alt="">
                 </div>
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/portfolio-details-2.jpg" alt="">
+                  <img src="assets/img/protfolio mr Hatab/profile-Details/Clinic-App/Screenshot-img-02.png" alt="">
                 </div>
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/portfolio-details-3.jpg" alt="">
+                  <img src="assets/img/protfolio mr Hatab/profile-Details/Clinic-App/Screenshot-img-03.png" alt="">
                 </div>
 
               </div>
@@ -125,16 +125,16 @@
             <div class="portfolio-info">
               <h3>Project information</h3>
               <ul>
-                <li><strong>Category</strong>: Web design</li>
-                <li><strong>Client</strong>: ASU Company</li>
-                <li><strong>Project date</strong>: 01 March, 2020</li>
-                <li><strong>Project URL</strong>: <a href="#">www.example.com</a></li>
+                <li><strong>Category</strong>: Clinic App</li>
+                <li><strong>Client</strong>:Dr Mohamed Qadri&hearts; <br>& Dr Heba Hatab &hearts;</li>
+                <li><strong>Project date</strong>:<span class="text-danger"> Under Development..</span></li>
+                <li><strong>Project URL</strong>: <a href="#"> <span class="text-danger">Under Development..</span></a></li>
               </ul>
             </div>
             <div class="portfolio-description">
-              <h2>This is an example of portfolio detail</h2>
+              <h2>This is an Clinic of Website detail</h2>
               <p>
-                Autem ipsum nam porro corporis rerum. Quis eos dolorem eos itaque inventore commodi labore quia quia. Exercitationem repudiandae officiis neque suscipit non officia eaque itaque enim. Voluptatem officia accusantium nesciunt est omnis tempora consectetur dignissimos. Sequi nulla at esse enim cum deserunt eius.
+                
               </p>
             </div>
           </div>
@@ -150,14 +150,15 @@
   <footer id="footer">
     <div class="container">
       <div class="copyright">
-        &copy; Copyright <strong><span>iPortfolio</span></strong>
+      &copy; Copyright <strong><span>Mr. Hatab Dev <span class="text-danger">&hearts;</span></span></strong>
       </div>
       <div class="credits">
         <!-- All the links in the footer should remain intact. -->
         <!-- You can delete the links only if you purchased the pro version. -->
         <!-- Licensing information: https://bootstrapmade.com/license/ -->
         <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/ -->
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+          Designed by <a href="https://github.com/Eslamhatab/Portfolio">Eslam Hatab </a>      </div>
+
       </div>
     </div>
   </footer><!-- End  Footer -->

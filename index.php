@@ -1,3 +1,4 @@
+<?php session_start(); ?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -130,7 +131,7 @@
                 <ul>
                   <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>25</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Bachelor (Information System, aka IS)</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Email Address:</strong> <span>mr.hatab055@gmail.com</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>mr.hatab055@gmail.com</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Available</span></li>
                 </ul>
               </div>
@@ -492,7 +493,7 @@
 
         <div class="section-title">
           <h2>Portfolio</h2>
-          <h1 class="alert alert-danger w-50 shadow rounder d-flex justify-content-center mx-auto p-2 text-warning"> Under Development........ </h1>
+          <h1 class="alert alert-danger w-50 shadow rounder d-flex justify-content-center mx-auto p-2 text-danger"> Under Development........ </h1>
         </div>
 
         <div class="row" data-aos="fade-up">
@@ -512,7 +513,7 @@
             <div class="portfolio-wrap">
               <img src="assets/img/protfolio mr Hatab/Screenshot-01.png" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/protfolio mr Hatab/Screenshot-04.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Dashboard  Clinic System"><i class="bx bx-plus"></i></a>
                 <a href="http://localhost:8080/portfolio-details.php" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -522,7 +523,7 @@
             <div class="portfolio-wrap">
               <img src="assets/img/protfolio mr Hatab/Screenshot-05.png" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/protfolio mr Hatab/Screenshot-09.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="DashBoard "><i class="bx bx-plus"></i></a>
                 <a href="http://localhost:8080/portfolio-details.php" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -532,7 +533,7 @@
             <div class="portfolio-wrap">
               <img src="assets/img/protfolio mr Hatab/Screenshot-13.png" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/protfolio mr Hatab/Screenshot-11.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card Products"><i class="bx bx-plus"></i></a>
                 <a href="http://localhost:8080/portfolio-details.php" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -542,7 +543,7 @@
             <div class="portfolio-wrap">
               <img src="assets/img/protfolio mr Hatab/Screenshot-15.png" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/protfolio mr Hatab/Screenshot-06.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Website E-comerece"><i class="bx bx-plus"></i></a>
                 <a href="http://localhost:8080/portfolio-details.php" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -552,7 +553,7 @@
             <div class="portfolio-wrap">
               <img src="assets/img/protfolio mr Hatab/Screenshot-14.png" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/protfolio mr Hatab/Screenshot-16.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
                 <a href="http://localhost:8080/portfolio-details.php" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -562,7 +563,7 @@
             <div class="portfolio-wrap">
               <img src="assets/img/protfolio mr Hatab/Screenshot-09.png" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 3"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/protfolio mr Hatab/Screenshot-06.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web E-comerece"><i class="bx bx-plus"></i></a>
                 <a href="http://localhost:8080/portfolio-details.php" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -572,7 +573,7 @@
             <div class="portfolio-wrap">
               <img src="assets/img/protfolio mr Hatab/Screenshot-04.png" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 1"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/protfolio mr Hatab/Screenshot-02.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Authentication Package"><i class="bx bx-plus"></i></a>
                 <a href="http://localhost:8080/portfolio-details.php" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -582,7 +583,7 @@
             <div class="portfolio-wrap">
               <img src="assets/img/protfolio mr Hatab/Screenshot-08.png" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 3"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/protfolio mr Hatab/Screenshot-17.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Php My Admin"><i class="bx bx-plus"></i></a>
                 <a href="http://localhost:8080/portfolio-details.php" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -592,7 +593,7 @@
             <div class="portfolio-wrap">
               <img src="assets/img/protfolio mr Hatab/Screenshot-10.png" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/protfolio mr Hatab/Screenshot-10.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Dashboard Products &Categories &Sub Categories Contact US "><i class="bx bx-plus"></i></a>
                 <a href="http://localhost:8080/portfolio-details.php" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -654,7 +655,7 @@
 
         <div class="section-title">
           <h2>Testimonials</h2>
-          <h1 class="alert alert-danger w-50 shadow rounder d-flex justify-content-center mx-auto p-2 text-warning"> Under Development........ </h1>
+          <h1 class="alert alert-danger w-50 shadow rounder d-flex justify-content-center mx-auto p-2 text-danger"> Under Development........ </h1>
         </div>
 
         <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
@@ -738,7 +739,7 @@
 
         <div class="section-title">
           <h2>Contact Me</h2>
-          <h1 class="alert alert-danger w-50 shadow rounder d-flex justify-content-center mx-auto p-2 text-warning"> Under Development........ </h1>
+          <h1 class="alert alert-danger w-50 shadow rounder d-flex justify-content-center mx-auto p-2 text-danger"> Under Development........ </h1>
         </div>
 
         <div class="row" data-aos="fade-in">
@@ -769,31 +770,46 @@
           </div>
 
           <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
-            <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+            <form action="./mail/send_email.php" method="post">
+            <!-- <form action="./mail/send_email.php" method="post"> -->
               <div class="row">
+                <div class="col-md-12 d-flex justify-content-center">
+                  <h3>
+                    <?php 
+                      if (isset($_SESSION['success_message'])){
+                        echo '<div class="alert alert-success">' .$_SESSION['success_message']. '</div>';
+                        unset($_SESSION['success_message']);
+                      }
+                      elseif (isset($_SESSION['error_message'])){
+                        echo '<div class="alert alert-danger">' .$_SESSION['error_message']. '</div>'; 
+                        unset($_SESSION['error_message']);
+                      }
+                    ?>
+                  </h3>
+                </div>       
                 <div class="form-group col-md-6">
-                  <label for="name">Your Name</label>
-                  <input type="text" name="name" class="form-control" id="name" required>
+                  <label for="sender_name">Your Name</label>
+                  <input type="text" name="sender_name" class="form-control" id="sender_name" required>
                 </div>
                 <div class="form-group col-md-6">
-                  <label for="name">Your Email</label>
-                  <input type="email" class="form-control" name="email" id="email" required>
+                  <label for="recipient_email">Your Email</label>
+                  <input type="email" class="form-control" name="recipient_email" id="recipient_email" required>
                 </div>
               </div>
               <div class="form-group">
-                <label for="name">Subject</label>
+                <label for="subject">Subject</label>
                 <input type="text" class="form-control" name="subject" id="subject" required>
               </div>
               <div class="form-group">
-                <label for="name">Message</label>
-                <textarea class="form-control" name="message" rows="10" required></textarea>
+                <label for="body">Message</label>
+                <textarea class="form-control" name="body" id="body" rows="10" required></textarea>
               </div>
               <div class="my-3">
                 <div class="loading">Loading</div>
                 <div class="error-message"></div>
                 <div class="sent-message">Your message has been sent. Thank you!</div>
               </div>
-              <div class="text-center"><button type="submit">Send Message</button></div>
+              <div class="text-center"><button class="btn btn-primary" type="submit">Send Message</button></div>
             </form>
           </div>
 
@@ -808,7 +824,7 @@
   <footer id="footer" >
     <div class="container">
       <div class="copyright">
-      &copy; Copyright <strong><span>Mr. Hatab Dev &hearts;</span></strong>
+      &copy; Copyright <strong><span>Mr. Hatab Dev <span class="text-danger">&hearts;</span></span></strong>
       </div>
       <div class="credits">
         <!-- All the links in the footer should remain intact. -->
