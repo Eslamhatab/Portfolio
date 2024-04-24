@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Portfolio Details - iPortfolio Bootstrap Template</title>
+  <title>Projects Details  </title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -132,7 +132,7 @@
               </ul>
             </div>
             <div class="portfolio-description">
-              <h2>This is an Clinic of Website detail</h2>
+              <h2>This is an Clinic of Website detail  And DashBoard systems  </h2>
               <p>
                 
               </p>
